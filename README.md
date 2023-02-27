@@ -1,5 +1,5 @@
 # QA_Automation-4.1
-HW 4.1
+
 1. Установите необходимый инструментарий по инструкции http://github.com/qa-guru/getting-started-python/wiki
 
 2. Скопируйте код из репозитория http://github.com/qa-guru/getting-started-python
